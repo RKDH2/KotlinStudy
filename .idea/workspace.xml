@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="README.md">
-      <change afterPath="$PROJECT_DIR$/src/section_03/section3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_02/section2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_02/section2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_04/section4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_04/section4.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,16 +25,38 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view />
+        <task path="$PROJECT_DIR$/src/section_03">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="KotlinStudy" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="KotlinScriptingSettings" supportWarning="false" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2l8oLyKc9I7PiSmLXW5audkyQGJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,14 +67,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03.executor": "Run",
+    "Gradle.KotlinStudy 빌드.executor": "Run",
+    "Gradle.KotlinStudy.executor": "Run",
     "JAR 애플리케이션.이름이 지정되지 않았습니다.executor": "Run",
+    "Kotlin 스크립트(베타).sevtion4.kts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "last_opened_file_path": "C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
@@ -62,6 +90,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\section_03" />
+      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main" />
+      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\resources" />
+      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\kotlin" />
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
@@ -115,13 +147,55 @@
       <option name="project" value="LOCAL" />
       <updated>1724571407604</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1724585225843</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585225843</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Section2">
+      <option name="closed" value="true" />
+      <created>1724585236384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585236384</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Section3">
+      <option name="closed" value="true" />
+      <created>1724585240167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585240167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Section4">
+      <option name="closed" value="true" />
+      <created>1724585245223</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585245223</updated>
+    </task>
+    <task id="LOCAL-00009" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1724585387907</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724585387907</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UPDATE" />
     <MESSAGE value="Section1" />
+    <MESSAGE value="UPDATE" />
     <MESSAGE value="Section2" />
+    <MESSAGE value="Section3" />
+    <MESSAGE value="Section4" />
     <MESSAGE value="README.md" />
     <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
