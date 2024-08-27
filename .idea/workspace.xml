@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="README.md">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="UPDATE">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_04/section4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_05/section5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/section_04/section4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/section_04/section4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_01/section1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_01/section1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_02/section2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_02/section2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_03/section3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section_03/section3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/section_04/section4.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +76,11 @@
     "Gradle.KotlinStudy.executor": "Run",
     "JAR 애플리케이션.이름이 지정되지 않았습니다.executor": "Run",
     "Kotlin 스크립트(베타).sevtion4.kts.executor": "Run",
+    "Kotlin.Section1Kt.executor": "Run",
+    "Kotlin.Section2Kt.executor": "Run",
+    "Kotlin.Section3Kt.executor": "Run",
+    "Kotlin.Section4Kt.executor": "Run",
+    "Kotlin.Section5Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -90,14 +99,54 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\kotlin" />
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\section_03" />
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main" />
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\resources" />
-      <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\kotlin" />
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Section5Kt">
+    <configuration name="Section1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_01.Section1Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_02.Section2Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_03.Section3Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_04.Section4Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_05.Section5Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="KotlinStudy" />
       <shortenClasspath name="NONE" />
@@ -105,6 +154,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Section5Kt" />
+        <item itemvalue="Kotlin.Section4Kt" />
+        <item itemvalue="Kotlin.Section3Kt" />
+        <item itemvalue="Kotlin.Section2Kt" />
+        <item itemvalue="Kotlin.Section1Kt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -187,16 +245,32 @@
       <option name="project" value="LOCAL" />
       <updated>1724585387907</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Section4">
+      <option name="closed" value="true" />
+      <created>1724593836835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724593836836</updated>
+    </task>
+    <task id="LOCAL-00011" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1724593844345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724593844345</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section1" />
-    <MESSAGE value="UPDATE" />
     <MESSAGE value="Section2" />
     <MESSAGE value="Section3" />
-    <MESSAGE value="Section4" />
     <MESSAGE value="README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+    <MESSAGE value="Section4" />
+    <MESSAGE value="UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
   </component>
 </project>
