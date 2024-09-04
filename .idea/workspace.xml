@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="README.md">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_07/section7(1).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_07/section7(2).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_07/section7(3).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_07/section7(4).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_07/section7(5).kt" afterDir="false" />
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="Section7">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_08/section8(1).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section_08/section8(2).kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +67,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build KotlinStudy.executor": "Run",
     "Gradle.C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03.executor": "Run",
     "Gradle.KotlinStudy 빌드.executor": "Run",
     "Gradle.KotlinStudy.executor": "Run",
@@ -85,6 +83,8 @@
     "Kotlin.Section7_2_Kt.executor": "Run",
     "Kotlin.Section7_3_Kt.executor": "Run",
     "Kotlin.Section7_4_Kt.executor": "Run",
+    "Kotlin.Section8Kt.executor": "Run",
+    "Kotlin.Section8_2_Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -110,23 +110,7 @@
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Section7_4_Kt">
-    <configuration name="Section6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_06.Section6Kt" />
-      <module name="KotlinStudy.main" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Section7_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_07.Section7_1_Kt" />
-      <module name="KotlinStudy.main" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Section8_2_Kt">
     <configuration name="Section7_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section_07.Section7_2_Kt" />
       <module name="KotlinStudy.main" />
@@ -151,6 +135,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Section8_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_08.Section8_1_Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section8_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section_08.Section8_2_Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="KotlinStudy" />
       <shortenClasspath name="NONE" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Section8_2_Kt" />
+        <item itemvalue="Kotlin.Section8_1_Kt" />
         <item itemvalue="Kotlin.Section7_4_Kt" />
         <item itemvalue="Kotlin.Section7_3_Kt" />
         <item itemvalue="Kotlin.Section7_2_Kt" />
-        <item itemvalue="Kotlin.Section7_1_Kt" />
-        <item itemvalue="Kotlin.Section6Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +361,23 @@
       <option name="project" value="LOCAL" />
       <updated>1725196054459</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1725196071914</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725196071914</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Section7">
+      <option name="closed" value="true" />
+      <created>1725196080472</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1725196080472</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,9 +412,10 @@
     <MESSAGE value="Section3" />
     <MESSAGE value="Section4" />
     <MESSAGE value="section5" />
-    <MESSAGE value="UPDATE" />
     <MESSAGE value="Section6" />
     <MESSAGE value="README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+    <MESSAGE value="UPDATE" />
+    <MESSAGE value="Section7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section7" />
   </component>
 </project>
