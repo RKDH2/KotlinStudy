@@ -8,3 +8,5 @@
 - section_07 : 클래스, 클래스 메서드, 생성자, 보조 생성자, 클래스 상속, 오버라이딩, 추상화, 인터페이스
 - section_08 : 고차 함수, 람다 함수, 접근 제한자, 스코프 함수 (apply, run, with, also / let)
 - section_09 : 오브젝트 (Object), Companion Object
+- section_10 : 익명 객체와 옵저버 패턴 옵저버 패턴
+- section_11 : 클래스의 다형성
