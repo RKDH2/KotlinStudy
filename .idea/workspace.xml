@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="UPDATE">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__11/section11.kt" afterDir="false" />
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="Section11">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__12/section12.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,46 +64,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Build KotlinStudy.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.KotlinStudy 빌드.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.KotlinStudy.executor&quot;: &quot;Run&quot;,
-    &quot;JAR 애플리케이션.이름이 지정되지 않았습니다.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin 스크립트(베타).sevtion4.kts.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section10Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section11Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section4Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section5Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section6Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section7Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section7_2_Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section7_3_Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section7_4_Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section8Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section8_2_Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section9Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Section9_2_Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build KotlinStudy.executor": "Run",
+    "Gradle.C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03.executor": "Run",
+    "Gradle.KotlinStudy 빌드.executor": "Run",
+    "Gradle.KotlinStudy.executor": "Run",
+    "JAR 애플리케이션.이름이 지정되지 않았습니다.executor": "Run",
+    "Kotlin 스크립트(베타).sevtion4.kts.executor": "Run",
+    "Kotlin.Section10Kt.executor": "Run",
+    "Kotlin.Section11Kt.executor": "Run",
+    "Kotlin.Section12Kt.executor": "Run",
+    "Kotlin.Section1Kt.executor": "Run",
+    "Kotlin.Section2Kt.executor": "Run",
+    "Kotlin.Section3Kt.executor": "Run",
+    "Kotlin.Section4Kt.executor": "Run",
+    "Kotlin.Section5Kt.executor": "Run",
+    "Kotlin.Section6Kt.executor": "Run",
+    "Kotlin.Section7Kt.executor": "Run",
+    "Kotlin.Section7_2_Kt.executor": "Run",
+    "Kotlin.Section7_3_Kt.executor": "Run",
+    "Kotlin.Section7_4_Kt.executor": "Run",
+    "Kotlin.Section8Kt.executor": "Run",
+    "Kotlin.Section8_2_Kt.executor": "Run",
+    "Kotlin.Section9Kt.executor": "Run",
+    "Kotlin.Section9_2_Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gaons/IdeaProjects/KotlinStudy/src/section_03",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;kotlin-gradle-user-dirs&quot;: [
-      &quot;C:\\Users\\gaons\\.gradle&quot;
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\gaons\\.gradle"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy\src\main\kotlin" />
@@ -114,7 +114,7 @@
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Section11Kt">
+  <component name="RunManager" selected="Kotlin.Section12Kt">
     <configuration name="Section10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section__10.Section10Kt" />
       <module name="KotlinStudy.main" />
@@ -131,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section8_2_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_08.Section8_2_Kt" />
+    <configuration name="Section12Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section__12.Section12Kt" />
       <module name="KotlinStudy.main" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -164,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Section12Kt" />
         <item itemvalue="Kotlin.Section11Kt" />
         <item itemvalue="Kotlin.Section10Kt" />
         <item itemvalue="Kotlin.Section9_2_Kt" />
         <item itemvalue="Kotlin.Section9_1_Kt" />
-        <item itemvalue="Kotlin.Section8_2_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -461,7 +461,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725890188499</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1726053622339</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1726053622339</updated>
+    </task>
+    <task id="LOCAL-00037" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1726053634091</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1726053634091</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Section11">
+      <option name="closed" value="true" />
+      <created>1726053642291</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726053642291</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,10 +523,11 @@
     <MESSAGE value="Section6" />
     <MESSAGE value="Section7" />
     <MESSAGE value="Section8" />
-    <MESSAGE value="README.md" />
     <MESSAGE value="Section9" />
     <MESSAGE value="Section10" />
     <MESSAGE value="UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="Section11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section11" />
   </component>
 </project>
