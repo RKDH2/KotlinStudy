@@ -10,3 +10,5 @@
 - section_09 : 오브젝트 (Object), Companion Object
 - section_10 : 익명 객체와 옵저버 패턴 옵저버 패턴
 - section_11 : 클래스의 다형성
+- section_12 : 제네릭
+- section_13 : 리스트(List), 뮤터블 리스트(MutableList)
