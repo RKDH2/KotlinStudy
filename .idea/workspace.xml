@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="Section11">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__12/section12.kt" afterDir="false" />
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="UPDATE">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__13/section13.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Kotlin.Section10Kt.executor": "Run",
     "Kotlin.Section11Kt.executor": "Run",
     "Kotlin.Section12Kt.executor": "Run",
+    "Kotlin.Section13Kt.executor": "Run",
     "Kotlin.Section1Kt.executor": "Run",
     "Kotlin.Section2Kt.executor": "Run",
     "Kotlin.Section3Kt.executor": "Run",
@@ -114,7 +115,7 @@
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Section12Kt">
+  <component name="RunManager" selected="Kotlin.Section13Kt">
     <configuration name="Section10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section__10.Section10Kt" />
       <module name="KotlinStudy.main" />
@@ -139,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Section9_1_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section_09.Section9_1_Kt" />
+    <configuration name="Section13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section__13.Section13Kt" />
       <module name="KotlinStudy.main" />
       <shortenClasspath name="NONE" />
       <method v="2">
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Section13Kt" />
         <item itemvalue="Kotlin.Section12Kt" />
         <item itemvalue="Kotlin.Section11Kt" />
         <item itemvalue="Kotlin.Section10Kt" />
         <item itemvalue="Kotlin.Section9_2_Kt" />
-        <item itemvalue="Kotlin.Section9_1_Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +486,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726053642291</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Section12">
+      <option name="closed" value="true" />
+      <created>1726146635911</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726146635911</updated>
+    </task>
+    <task id="LOCAL-00040" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1726146642481</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1726146642481</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -525,9 +542,10 @@
     <MESSAGE value="Section8" />
     <MESSAGE value="Section9" />
     <MESSAGE value="Section10" />
-    <MESSAGE value="UPDATE" />
     <MESSAGE value="README.md" />
     <MESSAGE value="Section11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section11" />
+    <MESSAGE value="Section12" />
+    <MESSAGE value="UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
   </component>
 </project>
