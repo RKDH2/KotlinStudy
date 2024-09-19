@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="Section14">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__15/section(3).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__15/section15(1).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__15/section15(2).kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="UPDATE">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,14 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724571012719</updated>
-    </task>
-    <task id="LOCAL-00001" summary="UPDATE">
-      <option name="closed" value="true" />
-      <created>1724571304723</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1724571304723</updated>
     </task>
     <task id="LOCAL-00002" summary="Section1">
       <option name="closed" value="true" />
@@ -573,7 +562,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726495729529</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Section15">
+      <option name="closed" value="true" />
+      <created>1726752697734</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1726752697735</updated>
+    </task>
+    <task id="LOCAL-00050" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1726752702085</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1726752702086</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -616,9 +621,10 @@
     <MESSAGE value="Section11" />
     <MESSAGE value="Section12" />
     <MESSAGE value="Section13" />
-    <MESSAGE value="UPDATE" />
     <MESSAGE value="README.md" />
     <MESSAGE value="Section14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section14" />
+    <MESSAGE value="Section15" />
+    <MESSAGE value="UPDATE" />
+    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
   </component>
 </project>
