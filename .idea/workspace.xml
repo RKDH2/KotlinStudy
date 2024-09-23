@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="UPDATE">
+    <list default="true" id="96fe91be-fa44-49be-910a-e859e126b27f" name="변경" comment="README.md">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section__16/section16.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/section__15/section15(1).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/section__15/section15(1).kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +82,7 @@
     "Kotlin.Section15Kt.executor": "Run",
     "Kotlin.Section15_1_Kt.executor": "Run",
     "Kotlin.Section15_2_Kt.executor": "Run",
+    "Kotlin.Section16Kt.executor": "Run",
     "Kotlin.Section1Kt.executor": "Run",
     "Kotlin.Section2Kt.executor": "Run",
     "Kotlin.Section3Kt.executor": "Run",
@@ -119,15 +123,7 @@
       <recent name="C:\Users\gaons\IdeaProjects\KotlinStudy" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Section_3_Kt">
-    <configuration name="Section13Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section__13.Section13Kt" />
-      <module name="KotlinStudy.main" />
-      <shortenClasspath name="NONE" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Section16Kt">
     <configuration name="Section14Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section__14.Section14Kt" />
       <module name="KotlinStudy.main" />
@@ -152,6 +148,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Section16Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section__16.Section16Kt" />
+      <module name="KotlinStudy.main" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Section_3_Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section__15.Section_3_Kt" />
       <module name="KotlinStudy.main" />
@@ -169,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Section16Kt" />
         <item itemvalue="Kotlin.Section_3_Kt" />
         <item itemvalue="Kotlin.Section15_2_Kt" />
         <item itemvalue="Kotlin.Section15_1_Kt" />
         <item itemvalue="Kotlin.Section14Kt" />
-        <item itemvalue="Kotlin.Section13Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,22 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724571012719</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Section1">
-      <option name="closed" value="true" />
-      <created>1724571319241</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1724571319241</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Section2">
-      <option name="closed" value="true" />
-      <created>1724571323073</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1724571323073</updated>
     </task>
     <task id="LOCAL-00004" summary="README.md">
       <option name="closed" value="true" />
@@ -578,7 +566,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726752702086</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="UPDATE">
+      <option name="closed" value="true" />
+      <created>1726752741365</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1726752741365</updated>
+    </task>
+    <task id="LOCAL-00052" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1726752747475</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1726752747475</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -621,10 +625,10 @@
     <MESSAGE value="Section11" />
     <MESSAGE value="Section12" />
     <MESSAGE value="Section13" />
-    <MESSAGE value="README.md" />
     <MESSAGE value="Section14" />
     <MESSAGE value="Section15" />
     <MESSAGE value="UPDATE" />
-    <option name="LAST_COMMIT_MESSAGE" value="UPDATE" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
   </component>
 </project>
